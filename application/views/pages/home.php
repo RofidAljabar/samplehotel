@@ -7,7 +7,7 @@
         <!-- <small>CONTROL PANEL</small> -->
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-home"></i> DASHBOARDDDDDDD</a></li>
+        <li><a href="#"><i class="fa fa-home"></i> DASHBOARD OKE OKE OKE</a></li>
         <!-- <li class="active">DASHBOARD</li> -->
       </ol>
     </section>
